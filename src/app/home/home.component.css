@@ -1,0 +1,18 @@
+.beheader{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 20px auto;
+}
+.nav{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: auto;
+    margin-left: 50px;
+}
+.nav-option{
+    margin: auto 100px;
+    white-space: nowrap;
+}
+.container{
+    display: block;
+}

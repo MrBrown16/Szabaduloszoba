@@ -1,0 +1,8 @@
+
+<div class="row">
+    <div class="col" *ngFor="let col of columns">{{col.text}}</div>
+</div>
+<div class="row" *ngFor="let foglalas of foglalasok">
+    <div class="col" *ngFor="let col of columns">{{foglalas[col.key]}}</div>
+</div>
+
