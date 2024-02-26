@@ -1,4 +1,5 @@
 # SzabaduloszobaMoraBarna
+## Made For A school test (limited time)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
